@@ -1,0 +1,30 @@
+{
+  "name": "crud-gustavo-noronha",
+  "version": "1.0.0",
+  "description": "Backend com NodeJS e Mysql usando Sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianojunnior17/CRUD-Gustavo-Noronha.git"
+  },
+  "author": "Luciano Lima Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianojunnior17/CRUD-Gustavo-Noronha/issues"
+  },
+  "homepage": "https://github.com/lucianojunnior17/CRUD-Gustavo-Noronha#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "nodemon": "^2.0.12",
+    "sequelize": "^6.6.5",
+    "sequelize-cli": "^6.2.0",
+    "yarn": "^1.22.11"
+  }
+}
