@@ -3,6 +3,8 @@ const routes = require('./routes');
 const cookieParser = require('cookie-parser');
 const cors = require('cors');
 
+require('./database')
+
 
 const app = express();
 
