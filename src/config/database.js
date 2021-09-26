@@ -4,7 +4,7 @@ module.exports = {
     username: 'root',
     port: 3307,
     password: '123456',
-    database: 'Curso CRUD',
+    database: 'curso crud',
     defines: {
         timestamps: true,
         underscores: true
