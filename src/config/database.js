@@ -6,7 +6,7 @@ module.exports = {
     password: '123456',
     database: 'curso crud',
     defines: {
-        timestamps: true,
-        underscores: true
+        timestamps: false,
+        underscores: false
     }
 }
